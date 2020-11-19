@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 2em;
+    color: #40514E;
+}
+
+html{
+margin: 0;
+padding: 0;
+}
+
+
+h1 {
+  margin: auto;
+  padding-top: 6%;
+  font-size: 565%;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+
+hr {
+  color: #EAF6F6;
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+p {
+  line-height: 2;
+}
+.topContainer {
+  background-color: #E4F9F5;
+}
+
+
+.middle-container {
+ margin: 100px 0;
+}
+
+.bottom-container {
+padding: 50px 0 20px;
+background-color: #66BFBF;
+font-size: 50%;
+}
+
+
+.Photo {
+  text-decoration: underline;
+}
+
+.Camera {
+  width: 25%;
+  height: auto;
+}
+
+.Rownak {
+  border-radius: 50%;
+  width: 10%;
+}
+
+.wedding {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.shutter {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.copyright {
+  color: #EAF6F6;
+  padding: 20px 0;
+  font-size: 0.75rem;
+}
+
+.hello {
+  width: 30%;
+  margin: auto;
+
+
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.myButton {
+	background-color:#11cdd4;
+	border-radius:8px;
+	border:1px solid #01999e;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #2f6627;
+}
+.myButton:hover {
+	background-color:#30e3cb;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
